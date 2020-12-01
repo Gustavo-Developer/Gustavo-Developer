@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, 
+# My name is Gustavo Mendes 
+# I´am  Front-end Developer :snowman:
 
-<!--
-**Gustavo-Developer/Gustavo-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I Studied Analysis and systems development in the Impacta  and Systems Development In ETEC Martin Luther King.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# :jack_o_lantern: Skills 
+## HTML5, CSS3,BOOTSTRAP SASS, JAVA, PYTHON, NPM, GIT, GITHUB, JAVASCRIP, SQL. 
+
+
+# :turtle: Fallow me and Contact me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavo-Developer)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-mendes-00661318b/)](https://www.linkedin.com/in/fagnerpsantos/)
+
