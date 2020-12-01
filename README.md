@@ -1,13 +1,13 @@
-# Hi there, 
-# My name is Gustavo Mendes 
-### I´am  Front-end Developer :snowman:
+# Hi there,  my name is Gustavo Mendes 
+
+### :snowman: I´am  Front-end Developer 
 
 ### I Studied Analysis and systems development in the Impacta  and Systems Development In ETEC Martin Luther King.
 
 
 
 ### :jack_o_lantern: Skills 
-### HTML5, CSS3,BOOTSTRAP SASS, JAVA, PYTHON, NPM, GIT, GITHUB, JAVASCRIP, SQL. 
+### HTML5, CSS3, BOOTSTRAP, SASS, JAVA, PYTHON, NPM, GIT, GITHUB, JAVASCRIP, SQL 
 
 
 ### :turtle: Fallow me and Contact me 
