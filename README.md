@@ -5,7 +5,7 @@
    I Studied Analysis and systems development in the Impacta  and Systems Development In ETEC Martin Luther King.
 </p>
 
-## ♚ SKILLS ♚
+## ♚ Skills ♚
 ♞. HTML5
 ♞. CSS3
 ♞. SASS 
