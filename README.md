@@ -17,7 +17,7 @@
 ♞. JAVASCRIP
 ♞. SQL
 
-### ♜ Fallow me and Contact me ♜
+### ♜ Follow me and Contact me ♜
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" /></a>
