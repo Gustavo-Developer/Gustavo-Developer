@@ -31,11 +31,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+###<🪐Fallow me and Contact me 🪐
 <p align="right">
-  <h1>🪐Fallow me and Contact me 🪐</h1>
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" /></a>
 
