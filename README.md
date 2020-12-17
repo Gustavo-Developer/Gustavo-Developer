@@ -4,14 +4,14 @@
 
 ### 404...
 <p align="left"> 
-  Space from World
-  ...🌌
+  ...🌌 Space from World...🌌
+ 
    <br>
     👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>🚀
    <br>
    👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀 
    <br>
-   ...🌌
+  
 
 </p>
 
@@ -33,7 +33,7 @@
 
 
 ###<🪐Fallow me and Contact me 🪐
-<p align="right">
+<p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" /></a>
 
@@ -42,8 +42,6 @@
 
   <a href="https://api.whatsapp.com/send?phone=5511948881978&text=Olá%20Gustavo,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Gustavo,%20tudo%20bem?"/></a>
-
-
 
   <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
 </p> 
