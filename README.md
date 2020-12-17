@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="300" align="right">
+<img src="computerlogo.svg" width="300" align="right">
 
 
 ### 404...
