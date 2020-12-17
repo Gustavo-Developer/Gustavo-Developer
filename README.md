@@ -1,31 +1,30 @@
-<img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="330" align="right">
+<img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="300" align="right">
 
 ### 404...
 <p align="left"> 
-  Space from World
-  ...🌌
+  ...🌌 Space from World ...🌌
    <br>
     👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>👨🏽‍🚀
    <br>
    👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀
    <br>
-   ...🌌
 
 </p>
 
 ### 🚀 Skills 🚀
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FEAE32?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-FEAE32?style=flat&logoColor=fff&logo=reactjs)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-FEAE32?style=flat&logoColor=fff&logo=sass)&nbsp;
-
-<br>
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FEAE32?style=flat&logoColor=fff&logo=bootstrap)&nbsp;
-![Java](https://img.shields.io/badge/-Java-FEAE32?style=flat&logoColor=fff&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-FEAE32?style=flat&logoColor=fff&logo=Python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-FEAE32?style=flat&logoColor=fff&logo=sql)&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
 
@@ -50,6 +49,4 @@
 </p> 
 
 
-<a href="https://gustavomendes.net" alt="Portifolio">
-  <img src="https://img.shields.io/badge/-Portifolio-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://gustavomendes.net"/></a>
-</p> 
+<a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
