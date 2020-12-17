@@ -1,20 +1,19 @@
-<img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="300" align="right">
-<img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="300" align="right">
+https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif
 
 ### 404...
 <p align="left"> 
   Space from World
   ...🌌
    <br>
-    👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>👨🏽‍🚀
+    👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>🚀
    <br>
-   👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀
+   👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀 
    <br>
    ...🌌
 
 </p>
 
-### 🚀 Skills 🚀
+### Skills 🚀
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
