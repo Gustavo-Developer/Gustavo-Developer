@@ -1,4 +1,4 @@
-<img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="/computerlogo.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Hello, my name is Gustavo Mendes,  I am <strong>Front-end Developer</strong> <br>
@@ -17,6 +17,15 @@
 ♞. JAVASCRIP
 ♞. SQL
 
+Atualmente estou estudando 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/mnagahama)](https://github.com/Gustavo-Developer) 
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Gustavo-Developer)](https://github.com/Gustavo-Developer) 
+
+
+
+
+
 ### ♜ Fallow me and Contact me ♜
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
@@ -32,3 +41,5 @@
   <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
 </p> 
+
+<a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
