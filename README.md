@@ -1,4 +1,5 @@
-https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif
+
+<img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="300" align="right">
 
 ### 404...
 <p align="left"> 
@@ -46,8 +47,6 @@ https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20Gustavo,%20tudo%20bem?"/></a>
 
 
-  <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
 
   <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
 </p> 
