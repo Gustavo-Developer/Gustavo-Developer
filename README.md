@@ -1,13 +1,16 @@
+<img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="300" align="right">
 <img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="300" align="right">
 
 ### 404...
 <p align="left"> 
-  ...🌌 Space from World ...🌌
+  Space from World
+  ...🌌
    <br>
     👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>👨🏽‍🚀
    <br>
    👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀
    <br>
+   ...🌌
 
 </p>
 
@@ -46,7 +49,7 @@
 
   <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
+
+  <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
 </p> 
 
-
-<a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
