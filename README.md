@@ -1,6 +1,6 @@
 
 <img src="https://media.giphy.com/media/S99cgkURVO62qemEKM/giphy.gif" width="300" align="right">
-<img src="computerlogo.svg" width="300" align="right">
+
 
 ### 404...
 <p align="left"> 
@@ -31,9 +31,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-
+<p align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 ### 🪐Fallow me and Contact me 🪐
 
