@@ -4,13 +4,20 @@
 
 ### 404...
 <p align="left"> 
-  ...🌌 Space from World...🌌
+  ...🌌 Diretamento do espaço para a Terra... 🌍 
  
    <br>
-    👨🏽‍🚀Hello World, my name is <strong>Gustavo Mendes</strong>🚀
+    👨🏽‍🚀Hello World, Meu nome é <strong>Gustavo Mendes</strong>🚀
    <br>
-   👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀 
+   👨🏽‍🚀E eu sou <strong>Front-end Developer</strong> 👨🏽‍🚀 
    <br>
+   Sou estudando de análise e Desenvolvimento de sistemas pela Faculdade Impacta de Tecnologia e curso o Técnico em Desenvolvimento de sistemas pela ETEC Martin Luther 
+   <br>
+   Estou sempre buscando aprimorar minhas abilidades como Dev, busco me tornar um Full Stack com foco nas Seguintes Tecnologias: 
+   <br>
+   -React <br>
+   -React Native <br>
+   -Node <br>
   
 
 </p>
