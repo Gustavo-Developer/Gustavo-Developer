@@ -5,19 +5,20 @@
 ### 404...
 <p align="left"> 
   ...🌌 Diretamento do espaço para a Terra... 🌍 
- 
    <br>
-    👨🏽‍🚀Hello World, Meu nome é <strong>Gustavo Mendes</strong>🚀
+   <br>
+    👨🏽‍🚀Hello World, Meu nome é <strong>Gustavo Mendes</strong>👨🏽‍🚀
    <br>
    👨🏽‍🚀E eu sou <strong>Front-end Developer</strong> 👨🏽‍🚀 
    <br>
    Sou estudando de análise e Desenvolvimento de sistemas pela Faculdade Impacta de Tecnologia e curso o Técnico em Desenvolvimento de sistemas pela ETEC Martin Luther 
    <br>
+   <br>
    Estou sempre buscando aprimorar minhas abilidades como Dev, busco me tornar um Full Stack com foco nas Seguintes Tecnologias: 
    <br>
-   -React <br>
-   -React Native <br>
-   -Node <br>
+   -<strong>React</strong> <br>
+   -<strong>React Native</strong> <br>
+   -<strong>Node</strong> <br>
   
 
 </p>
@@ -39,7 +40,7 @@
 
 
 
-### 🪐Fallow me and Contact me 🪐
+### 🪐Me siga ou me chame para realizar um projeto, seria uma honra! 🪐
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=srto.mendes@gmail.com" /></a>
