@@ -1,5 +1,5 @@
 
-<img src="computerlogo.svg" width="300" align="right">
+<img src="astronaut.svg" width="300" align="right">
 
 
 ### 404...
@@ -17,7 +17,7 @@
    Estou sempre buscando aprimorar minhas abilidades como Dev, busco me tornar um Full Stack com foco nas Seguintes Tecnologias: 
    <br>
    -<strong>React</strong> <br>
-   -<strong>React Native</strong> <br>
+   -<strong>Flutter</strong> <br>
    -<strong>Node</strong> <br>
   
 
