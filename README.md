@@ -14,7 +14,7 @@
    Sou Estágiario em Front-end e estudante de análise e Desenvolvimento de sistemas.
    <br>
    <br>
-   Estou sempre buscando aprimorar minhas abilidades como Dev, busco me tornar um Full Stack com foco nas Seguintes Tecnologias: 
+   Estou sempre buscando aprimorar minhas habilidades como Dev, busco me tornar um Full Stack com foco nas Seguintes Tecnologias: 
    <br>
    -<strong>React</strong> <br>
    -<strong>Flutter</strong> <br>
