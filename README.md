@@ -1,5 +1,5 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gustavo-developer&repo=gustavo-developer&countColorcountColor)
-# Hi, My name is Gustavo 👨🏽‍🚀
+## Hi, my name is Gustavo 👨🏽‍🚀
 <p > 
   I'm  <strong>Front-end Developer</strong> 
   
@@ -11,10 +11,9 @@
 
 </p>
 
-[Snake animation](https://github.com/gustavo-developer/gustavo-developer/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif" min-width="400px" max-width="400px" width="400px" align="center" alt="Astronauta Gustavo-Developer">>
 
-
-## 🚀💻 Technologies & Tools:
+## 🚀 Technologies & Tools:
 <p align='left'>
 
 
@@ -23,7 +22,6 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -36,14 +34,13 @@
 
 </p>
 
-
-<p align="center">
+<h1 align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
+    
+</h1>
 
-<p>
-
-## 🚀Contact me 
+## 🚀 Contact me 
 
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
