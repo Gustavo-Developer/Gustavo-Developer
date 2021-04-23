@@ -11,7 +11,7 @@
 
 </p>
 
-[Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/gustavo-developer/gustavo-developer/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🚀💻 Technologies & Tools:
@@ -37,11 +37,13 @@
 </p>
 
 
+<p align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
 
+<p>
 
-## 🚀Fallow me and Contact me 
+## 🚀Contact me 
 
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
@@ -57,7 +59,6 @@
   <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
 
-  <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
 </p> 
 
 
