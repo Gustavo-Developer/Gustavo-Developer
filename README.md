@@ -8,8 +8,11 @@
 
 </p>
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<h1 align="center">
 
+  <img  alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+
+</h1>
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
