@@ -8,7 +8,7 @@
 
 </p>
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 
 ## 🚀 Technologies & Tools:
