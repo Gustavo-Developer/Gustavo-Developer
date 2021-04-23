@@ -1,34 +1,47 @@
-<img src="https://media.giphy.com/media/J1WyRIJrTeKs6R6VHL/giphy.gif" width="300" align="right">
-
-### 404
-<p align="left"> 
-
-  ...🌌
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gustavo-developer&repo=gustavo-developer&countColorcountColor)
+# Hi, My name is Gustavo 👨🏽‍🚀
+<p > 
+  I'm  <strong>Front-end Developer</strong> 
+  
    <br>
-   👨🏽‍🚀Hello, my name is <strong>Gustavo Mendes</strong>👨🏽‍🚀
+    I study systems analysis and development
    <br>
-   👨🏽‍🚀 I am <strong>Front-end Developer</strong> 👨🏽‍🚀
+    I always look for new technologies
    <br>
-   ...🌌
 
 </p>
 
-### 🚀 Skills 🚀
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-FEAE32?style=flat&logoColor=fff&logo=reactjs)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-FEAE32?style=flat&logoColor=fff&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-FEAE32?style=flat&logoColor=fff&logo=bootstrap)&nbsp;
-![Java](https://img.shields.io/badge/-Java-FEAE32?style=flat&logoColor=fff&logo=java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-FEAE32?style=flat&logoColor=fff&logo=Python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-FEAE32?style=flat&logoColor=fff&logo=sql)&nbsp;
+[Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+
+
+## 🚀💻 Technologies & Tools:
+<p align='left'>
+
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+</p>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-developer&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
 
 
-### 🪐Fallow me and Contact me 🪐
+## 🚀Fallow me and Contact me 
 
 <p align="left">
   <a href="mailto:srto.mendes@gmail.com" alt="Gmail">
@@ -43,7 +56,11 @@
 
   <a href="https://www.instagram.com/mendess.gu/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendes.gu/"/></a>
+
+  <a href="https://gustavomendes.net" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
 </p> 
 
-<a href="https://gustavomendes.net" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-%23262626.svg?&style=flat-square&logo=dependabot&logoColor=white" alt="Portifolio"></a>
+
+
+
+
