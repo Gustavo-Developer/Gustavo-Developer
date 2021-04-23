@@ -10,8 +10,11 @@
    <br>
 
 </p>
+<h1 align="center">
 
-<img src="https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif" min-width="400px" max-width="400px" width="400px" align="center" alt="Astronauta Gustavo-Developer">
+  <img src="https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif" min-width="400px" max-width="400px" width="400px" alt="Astronauta Gustavo-Developer">
+
+</h1>
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
