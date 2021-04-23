@@ -11,8 +11,13 @@
 
 </p>
 
-<img src="https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif"  width="400px" alt="Astronauta Gustavo-Developer">
 
+<p align="center">
+
+  <img src="https://media.giphy.com/media/cEYFeE4wJ6jdDVBiiIM/giphy.gif" width="100">
+
+
+</p>
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
