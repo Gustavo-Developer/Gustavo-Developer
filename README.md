@@ -4,20 +4,11 @@
   I'm  <strong>Front-end Developer</strong> 
   
    <br>
-    I study systems analysis and development
-   <br>
-    I always look for new technologies
-   <br>
+    I study systems analysis and development and I always look for new technologies
 
 </p>
 
-
-<p align="center">
-
-  <img src="http://gph.is/1frHYit" width="100">
-
-
-</p>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
