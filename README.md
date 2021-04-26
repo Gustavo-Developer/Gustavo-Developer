@@ -4,7 +4,7 @@
   I'm  <strong>Front-end Developer</strong> 
   
    <br>
-    I study systems analysis and development and I always look for new technologies
+    I study systems analysis and development and I always look for new technologies to the next level
 
 </p>
 
