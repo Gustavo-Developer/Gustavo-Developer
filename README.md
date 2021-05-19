@@ -44,7 +44,7 @@
 ## 🚀 Let's take a coffee
 
 
-<p align='left'>
+<p align='center'>
 
   <a href = "mailto:srto.mendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
