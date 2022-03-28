@@ -8,7 +8,7 @@ I'm  specialized in delivering high-quality Full-Stack solutions. My engineering
 
 - 👨‍🚀 I study Systems Analysis and Development. 
  
-- 🌟 Studying Node, React and JavaScript. 
+- 🌟 Studying Node, React, Angular and JavaScript. 
  
 - 🌑 I always look for new technologies to the next level 
  
