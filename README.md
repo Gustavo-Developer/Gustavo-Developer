@@ -8,7 +8,7 @@ I'm  specialized in delivering high-quality Full-Stack solutions. My engineering
 
 - 👨‍🚀 I study Systems Analysis and Development. 
  
-- 🌟 Studying Node, React, Angular and JavaScript. 
+- 🌟 Studying Node, React, Angular and Flutter. 
  
 - 🌑 I always look for new technologies to the next level 
  
@@ -18,6 +18,7 @@ I'm  specialized in delivering high-quality Full-Stack solutions. My engineering
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
  
