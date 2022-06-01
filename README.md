@@ -1,4 +1,4 @@
-![Header](./header-gustavo)
+![Header](./header-gustavo.png)
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gustavo-developer&repo=gustavo-developer&countColorcountColor)
 
