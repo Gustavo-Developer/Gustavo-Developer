@@ -1,4 +1,6 @@
-<img align="center" src="./header-gustavo.png"/>
+<h1 align="center">
+ <img align="center" src="./header-gustavo.png" width="100%"/>
+ </h1>
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gustavo-developer&repo=gustavo-developer&countColorcountColor)
 
