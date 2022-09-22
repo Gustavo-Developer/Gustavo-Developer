@@ -6,15 +6,15 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-00661318b/)
 
-Hi, call me Gustavo Mendes 👋. I'm a Software Engineer at Accenture.
+Olá, me chamo Gustavo mendes e eu atuo como Software Enginner na Accenture.
 
-I'm  specialized in delivering high-quality Full-Stack solutions. My engineering background includes, but is not limited to, React web apps and Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
+Sou especialista em entregar aplicações e soluções Full-Stack de alta qualidade. Minha experiência em engenharia inclui, mas não se limita a, aplicativos Web React e monolitos e microsserviços Node.js. Gosto de explorar os recursos das ferramentas modernas, que levam a engenharia a soluções novas e flexíveis.
 
-- 👨‍🚀 I study Systems Analysis and Development. 
+- 👨‍🚀 Eu curso Análise e Desenvolvimento de Sistemas
  
-- 🌟 Studying Node, React, Angular and Flutter. 
+- 🌟 Sou Focados nas técnologias de React, React Native, Flutter e NodeJs.
  
-- 🌑 I always look for new technologies to the next level 
+- 🌑 Eu sempre estudo novas técnologias para estar sempre em um próximo level
  
  <div style="display: inline_block"><br>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
