@@ -2,8 +2,6 @@
  <img align="center" src="./header-gustavo.png" width="100%"/>
  </h1>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gustavo-developer&repo=gustavo-developer&countColorcountColor)
-
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-00661318b/)
 
 Olá, me chamo Gustavo mendes e eu atuo como Software Enginner na Accenture.
