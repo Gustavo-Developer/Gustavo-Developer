@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mendes-00661318b/)
 
 
-Hi, call me Gustavo Mendes 👋. I'm a Software Engineer at Accenture 👨‍💻.
+Hi, call me Gustavo Mendes 👋. I'm a Software Engineer at IBM 👨‍💻.
 I'm specialized in delivering high-quality Full-Stack solutions 
 
 As a Full Stack developer with experience in React, Angular and Node, I bring a diverse set of technical skills and hands-on experience to software development projects. I have a deep understanding of React and its component-based architecture, as well as Angular and its robust MVC framework. My Node experience includes building RESTful APIs and implementing authentication and authorization with JWT. In addition, I am able to work with different tools and technologies, such as Git, SQL and NoSQL databases, Docker, AWS, among others.
