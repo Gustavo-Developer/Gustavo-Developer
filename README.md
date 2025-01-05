@@ -23,7 +23,7 @@ I'm always looking to learn and stay up-to-date on the latest trends and technol
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white">
 <img alt="Angular" src="https://img.shields.io/badge/angular%20-%2343853D.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/angular%20-%2343853D.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws%20-%2343853D.svg?&style=for-the-badge&logo=aws&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
  
