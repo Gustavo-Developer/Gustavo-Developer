@@ -54,6 +54,23 @@ I enjoy working with international teams, solving complex problems, and continuo
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavomendesdev&show_icons=true&theme=radical" alt="Gustavo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomendesdev&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=gustavomendesdev&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Snake eating my commits
+
+![Snake animation](https://github.com/gustavomendesdev/gustavomendesdev/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ## 🚀 Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gustavo-mendes-00661318b/) or visit my [website](https://mendesscript.com). I'm always open to discussing new projects, collaborations, or just talking about tech!
