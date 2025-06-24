@@ -57,16 +57,16 @@ I enjoy working with international teams, solving complex problems, and continuo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavomendesdev&show_icons=true&theme=radical" alt="Gustavo's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomendesdev&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=gustavomendesdev&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Developer&show_icons=true&theme=radical" alt="Gustavo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Developer&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=Gustavo-Developer&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🐍 Snake eating my commits
 
-![Snake animation](https://github.com/gustavomendesdev/gustavomendesdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gustavo-Developer/Gustavo-Developer/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
