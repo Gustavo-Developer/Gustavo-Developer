@@ -57,9 +57,9 @@ I enjoy working with international teams, solving complex problems, and continuo
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Developer&show_icons=true&theme=radical" alt="Gustavo's GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Developer&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=Gustavo-Developer&theme=radical" alt="GitHub Streak"/>
+  
 </div>
 
 ---
