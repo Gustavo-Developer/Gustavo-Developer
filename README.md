@@ -38,26 +38,9 @@ I enjoy working with international teams, solving complex problems, and continuo
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Developer&layout=compact&theme=radical" alt="Top Langs"/>
-  
-</div>
-
----
-
-## 🐍 Snake eating my commits
-
-![Snake animation](https://github.com/Gustavo-Developer/Gustavo-Developer/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🚀 Let's Connect
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gustavo-mendes-00661318b/) or visit my [website](https://mendesscript.com). I'm always open to discussing new projects, collaborations, or just talking about tech!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gustavo-mendes-00661318b/). I'm always open to discussing new projects, collaborations, or just talking about tech!
 
 ---
 
