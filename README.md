@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/gustavo-mendes-00661318b/">
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://mendesscript.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-mendesscript.com-000?style=for-the-badge&logo=Firefox&logoColor=white">
-  </a>
-  <a href="https://dateto.love">
-    <img alt="dateto.love" src="https://img.shields.io/badge/-dateto.love-FF4C8B?style=for-the-badge&logo=heart&logoColor=white">
-  </a>
 </p>
 
 ---
@@ -22,8 +16,6 @@
 🚀 Passionate about creating scalable, high-quality software solutions.
 
 As a Full Stack Developer, I specialize in building robust and scalable applications using technologies like **Node.js, AWS, Angular, React, Java, and Docker**. I have solid experience developing APIs, microservices, and front-end applications, as well as designing architecture that meets both technical and business needs.
-
-I'm the creator of **[mendesscript.com](https://mendesscript.com)** — my tech space — and **[dateto.love](https://dateto.love)**, a side project that connects people in meaningful ways.
 
 I enjoy working with international teams, solving complex problems, and continuously learning new technologies to improve both backend and frontend systems.
 
@@ -45,14 +37,6 @@ I enjoy working with international teams, solving complex problems, and continuo
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
----
-
-## 🌐 Projects & Websites
-
-- 🚀 **[mendesscript.com](https://mendesscript.com)** — My personal tech blog, portfolio, and space to share knowledge.  
-- 💖 **[dateto.love](https://dateto.love)** — A modern platform for connecting people and building meaningful relationships.
-
----
 
 ## 📊 GitHub Stats
 
